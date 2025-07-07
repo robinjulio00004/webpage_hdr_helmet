@@ -1,6 +1,8 @@
 # webpage_hdr_helmet
 Example Augmented Reality (AR) Webpage made by me with AR.js (AugmentedReality.javascript)
 
+https://robinjulio00004.github.io/webpage_hdr_helmet/
+
 Previously we must generate the model in glTF format and the image & pattern
 
 In this example shows a target (number 43 as target) and HDR Helmet is displayed
